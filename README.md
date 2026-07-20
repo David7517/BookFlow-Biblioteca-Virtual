@@ -31,7 +31,7 @@ Desarrollar una biblioteca virtual que permita organizar libros electrónicos, a
 ## Integrantes
 
 - David Andrés Camacho Rojas.
-- Nombre completo de la compañera.
+- Mirley Leon Vargas.
 
 ## Estado del proyecto
 
